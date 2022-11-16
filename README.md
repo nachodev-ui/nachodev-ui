@@ -3,4 +3,6 @@
   
   <h1> Hello, I'm Nachodev </h1>
   
+  <p> I'm studying Information Technology. I've knowledge in Web development & Mobile.</p>
+  
 </div>
