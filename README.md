@@ -17,7 +17,7 @@
   </li>
   
   <li>
-    <ul> I've learns on Ionic, Angular, Python, Kotlin & Java </ul>
+    <ul> I've learns in SQL, TypeScript, Kotlin, Python... </ul>
   </li>
   
   <li>
