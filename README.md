@@ -30,10 +30,10 @@
   
   <h2> Languages & Tools </h2>
   
-  <div>
+  <div style="display: inline_block">
     
-    <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="30" height="30" title="HTML5" alt="HTML" />
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
   </div>
   
 </div>
