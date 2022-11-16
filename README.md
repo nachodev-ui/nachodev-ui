@@ -14,8 +14,14 @@
   
   <li>
     <ul> I'm in my fourth semester as Information Technology student </ul>
-    
-    <ul> I'm in my fourth semester as Information Technology student </ul>
+  </li>
+  
+  <li>
+    <ul> I've learns on Ionic, Angular, Python, Kotlin & Java </ul>
+  </li>
+  
+  <li>
+    <ul> You cant match me as **nacho.rtk@gmail.com** </ul>
   </li>
   
 </div>
