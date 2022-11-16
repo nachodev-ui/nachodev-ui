@@ -21,7 +21,7 @@
   </li>
   
   <li>
-    <ul> You cant match me as <a href="nacho.rtk@gmail.com"></a> </ul>
+    <ul> You cant match me as <b>nacho.rtk@gmai.com</b> </ul>
   </li>
   
 </div>
