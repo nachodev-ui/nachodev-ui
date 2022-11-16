@@ -10,7 +10,7 @@
 
 <div id="about-me">
 
-  <h2> About me </h1>
+  <h2> About me </h2>
   
   <li>
     <ul> I'm in my fourth semester as Information Technology student </ul>
@@ -21,7 +21,7 @@
   </li>
   
   <li>
-    You cant match me as **nacho.rtk@gmail.com**
+    <ul> You cant match me as **nacho.rtk@gmail.com** </ul>
   </li>
   
 </div>
