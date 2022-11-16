@@ -25,3 +25,15 @@
   </li>
   
 </div>
+
+<div align="left">
+  
+  <h2> Languages & Tools </h2>
+  
+  <div>
+    
+    <img src="https://www.flaticon.es/iconos-gratis/html-5" width="30" height="30" title="HTML5" alt="HTML" />
+    
+  </div>
+  
+</div>
