@@ -32,7 +32,7 @@
   
   <div>
     
-    <img src="https://github.com/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30" title="HTML5" alt="HTML" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="30" height="30" title="HTML5" alt="HTML" />
     
   </div>
   
