@@ -20,10 +20,6 @@
     <ul> I've learns in SQL, TypeScript, Kotlin, Python... </ul>
   </li>
   
-  <li>
-    <ul> You cant write me at <b>nacho.rtk@gmail.com</b> </ul>
-  </li>
-  
 </div>
 
 <div style="display: inline_block">
@@ -35,10 +31,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-                                           
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
           
