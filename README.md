@@ -4,7 +4,7 @@
   
   <h1> Hello, I'm Nachodev </h1>
   
-  <p> I'm studying Information Technology. I've knowledge in Web development & Mobile.</p>
+  <p> I'm studying Information Technology. I've knowledge in Web development & Mobile Aplications</p>
   
 </div>
 
@@ -13,11 +13,11 @@
   <h2> About me </h2>
   
   <li>
-    <ul> I'm in my fourth semester as Information Technology student </ul>
+    <ul> I'm in my fifth semester as Information Technology student </ul>
   </li>
   
   <li>
-    <ul> I've learns in SQL, TypeScript, Kotlin, Python... </ul>
+    <ul> I'm learning React Native, Flutter & Rust </ul>
   </li>
   
 </div>
