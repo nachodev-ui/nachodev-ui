@@ -17,7 +17,7 @@
   </li>
   
   <li>
-    <ul> I'm learning React Native, Flutter & Rust </ul>
+    <ul> I'd like learn Flutter, Go & React Native </ul>
   </li>
   
 </div>
