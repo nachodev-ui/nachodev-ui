@@ -13,7 +13,7 @@
   <h2> About me </h2>
   
   <li>
-    <ul> I'm in my fifth semester as Information Technology student </ul>
+    <ul> I'm in my fifth semester as IT student </ul>
   </li>
   
   <li>
