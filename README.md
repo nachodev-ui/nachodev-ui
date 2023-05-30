@@ -54,6 +54,9 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nachodev-ui&theme=transparent" />
     </a>
     <a href="https://github.com/nachodev-ui">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nachodev-ui&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/nachodev-ui">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=transparent" />
     </a>
   </p>
