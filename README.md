@@ -48,6 +48,7 @@
 
 ## Github Overview
 
-<img align="left" alt="nachodev-ui Github Stats" src="https://github-readme-stats.vercel.app/api?username=nachodev-ui&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachodev-ui)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=react) 
+</details>
 
