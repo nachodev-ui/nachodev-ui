@@ -49,6 +49,8 @@
 ## Github Overview
 
 <details>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=react) 
+  <a href="https://github.com/nachodev-ui">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=transparent" />
+  </a>
 </details>
 
