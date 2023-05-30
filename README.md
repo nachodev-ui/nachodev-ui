@@ -48,9 +48,13 @@
 
 ## Github Overview
 
-<details>
+<section>
   <a href="https://github.com/nachodev-ui">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=transparent" />
   </a>
-</details>
+  <a href="https://github.com/nachodev-ui">
+    <img src"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nachodev-ui&theme=react" />
+  </a>
+</section>
+
 
