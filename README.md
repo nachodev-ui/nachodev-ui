@@ -23,6 +23,12 @@
   <li>
     <ul> Currently I'm learning Next.js, Astro & MongoDB📚</ul>
   </li>
+
+  <li>
+    <ul>
+      I would like to learn Swift & Flutter 📱
+    </ul>
+  </li> 
   
 </div>
 
