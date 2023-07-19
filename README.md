@@ -11,6 +11,10 @@
 <div id="about-me">
 
   <h2> About me </h2>
+
+  <li>
+    <ul> I'm from Chile 🇨🇱 </ul>
+  </li>
   
   <li>
     <ul> I'm in my sixth semester as IT student 🧑‍🎓 </ul>
