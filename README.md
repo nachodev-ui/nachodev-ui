@@ -17,7 +17,7 @@
   </li>
   
   <li>
-    <ul> I'm in my sixth semester as IT student 🧑‍🎓 </ul>
+    <ul> I'm in my last year as Computer Engineering student 🧑‍🎓 </ul>
   </li>
   
   <li>
@@ -26,7 +26,7 @@
 
   <li>
     <ul>
-      I would like to learn Swift & Flutter 📱
+      I would like to learn Swift & Flutter📱
     </ul>
   </li> 
   
