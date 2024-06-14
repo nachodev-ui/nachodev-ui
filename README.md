@@ -11,7 +11,7 @@
 <div id="about-me">
   <h2> About me </h2>
 
-  <img align="right" alt="Coding" width="360" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
+  <img align="right" alt="Coding" width="360" height="520" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
   <li>
     <ul>🇨🇱 I'm from Chile  </ul>
