@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ignacio-cisternas-orellana" height="40" width="50" /></a>
-<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ignacio-cisternas-orellana" height="40" width="50" /></a>
+<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ignacio-cisternas-orellana" height="36" width="46" /></a>
 </p>
 <br>
 
