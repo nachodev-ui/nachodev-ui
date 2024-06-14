@@ -1,15 +1,16 @@
 <div id="header" align="center" width="300">
-  
-  <img src="https://media2.giphy.com/media/NytMLKyiaIh6VH9SPm/200.webp?cid=ecf05e47gzxlty4ccc8o0kxj9vn8eys6gozae9mqm2219upe&rid=200.webp&ct=g" />
+
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif" height="274" />
   
   <h1> Hello, I'm Nachodev </h1>
   
-  <p> I'm studying Information Technology💻. I've knowledge in Web development & Mobile Aplications</p>
+  <p> I'm studying Computer Engineering💻. Web and mobile application developer with expertise in project management, agile methodologies, cybersecurity, etc.</p>
   
 </div>
 
-<div id="about-me">
-  <h2> About me </h2>
+<div style="display: block">
+  
+  <h3>About me</h3>    
 
   <img align="right" alt="Coding" width="260" height="300" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
@@ -31,6 +32,10 @@
 
   <li>
     <ul>🌿 I love constantly learning and exploring new hobbies</ul>
+  </li> 
+
+  <li>
+    <ul>👾 I also love pixel art (random detail)</ul>
   </li> 
 </div>
 
@@ -70,7 +75,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
   </a>
 </p>
 
@@ -86,7 +91,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">     
 </div>
 
-## Github Overview
+## Github Overview  
 
 <section>
   <p align="center">
