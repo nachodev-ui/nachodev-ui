@@ -11,7 +11,7 @@
 <div id="about-me">
   <h2> About me </h2>
 
-  <img align="right" alt="Coding" width="360" height="520" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+  <img align="right" alt="Coding" width="260" height="420" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
   <li>
     <ul>🇨🇱 I'm from Chile  </ul>
@@ -29,6 +29,14 @@
     <ul>📱 I would like to learn Swift & Flutter</ul>
   </li> 
 </div>
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-cisternas-orellana" height="30" width="40" /></a>
+<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail" alt="supun-nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
 
 <div style="display: inline_block">
 
