@@ -11,6 +11,8 @@
 <div id="about-me">
   <h2> About me </h2>
 
+  <img align="right" alt="Coding" width="360" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
+
   <li>
     <ul>🇨🇱 I'm from Chile  </ul>
   </li>
@@ -27,8 +29,6 @@
     <ul>📱 I would like to learn Swift & Flutter</ul>
   </li> 
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
 
 <div style="display: inline_block">
 
