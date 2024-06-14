@@ -17,17 +17,15 @@
   </li>
   
   <li>
-    <ul> I'm in my last year as Computer Engineering student 🧑‍🎓 </ul>
+    <ul>🧑‍🎓 I'm in my last year as Computer Engineering student</ul>
   </li>
   
   <li>
-    <ul> Currently I'm learning Next.js, Astro & MongoDB📚</ul>
+    <ul>📚 I’m currently learning Devops</ul>
   </li>
 
   <li>
-    <ul>
-      I would like to learn Swift & Flutter📱
-    </ul>
+    <ul>📱 I would like to learn Swift & Flutter</ul>
   </li> 
   
 </div>
