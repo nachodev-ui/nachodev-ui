@@ -63,7 +63,8 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Oracle.component.complex-narrative-xl.ts=1690900057141.png/content/adobe-cms/br/pt/products/instana/supported-technologies/oracle-database-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" /> 
   </a>
 </p>
 
