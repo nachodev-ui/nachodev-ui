@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-cisternas-orellana" height="30" width="40" /></a>
-<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail" alt="ignacio-cisternas-orellana" height="30" width="40" /></a>
 </p>
 <br>
 
