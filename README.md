@@ -28,7 +28,7 @@
   </li> 
 </div>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
 
 <div style="display: inline_block">
 
