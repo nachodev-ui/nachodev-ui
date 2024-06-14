@@ -11,7 +11,7 @@
 <div id="about-me">
   <h2> About me </h2>
 
-  <img align="right" alt="Coding" width="260" height="420" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+  <img align="right" alt="Coding" width="260" height="300" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
   <li>
     <ul>🇨🇱 I'm from Chile  </ul>
@@ -27,14 +27,18 @@
 
   <li>
     <ul>📱 I would like to learn Swift & Flutter</ul>
+  </li>
+
+  <li>
+    <ul>🌿 I love constantly learning and exploring new hobbies</ul>
   </li> 
 </div>
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ignacio-cisternas-orellana" height="50" width="60" /></a>
-<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ignacio-cisternas-orellana" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ignacio-cisternas-orellana" height="40" width="50" /></a>
+<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ignacio-cisternas-orellana" height="40" width="50" /></a>
 </p>
 <br>
 
