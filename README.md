@@ -9,11 +9,10 @@
 </div>
 
 <div id="about-me">
-
   <h2> About me </h2>
 
   <li>
-    <ul> I'm from Chile 🇨🇱 </ul>
+    <ul>🇨🇱 I'm from Chile  </ul>
   </li>
   
   <li>
@@ -27,8 +26,9 @@
   <li>
     <ul>📱 I would like to learn Swift & Flutter</ul>
   </li> 
-  
 </div>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif" />
 
 <div style="display: inline_block">
 
