@@ -18,7 +18,6 @@
 
 - 🇨🇱 Desarrollador de software en Chile
 - 🎓 Ingeniería Civil en Computación
-- 📱 Actualmente construyendo **GasApp**, una app Flutter de delivery de gas para el mercado chileno
 - ⚔️ Desarrollando un ecosistema de herramientas para **Albion Online** (API de mercado + calculadora de crafting)
 - 🛠️ Stack diario: Flutter, Go, React/TypeScript, PostgreSQL
 - 🌱 Explorando arquitectura hexagonal, DevOps y sistemas escalables
