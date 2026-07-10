@@ -1,110 +1,84 @@
-<div id="header" align="center" width="300">
+<div align="center">
 
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif" height="274" />
-  
-  <h1> Hello, I'm Nachodev </h1>
-  
-  <p> I'm studying Computer Engineering💻. Web and mobile application developer with expertise in project management, agile methodologies, cybersecurity, etc.</p>
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Hi%20there,%20I'm%20Nachodev&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Chile&descAlignY=55&descSize=18" width="100%"/>
 
-<div style="display: block">
-  
-  <h3>About me</h3>    
+<a href="https://ig.cisternas.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Flutter+%2B+Riverpod+%2B+Supabase;Go+%2B+PostgreSQL+backends;React+%2F+TypeScript+%2F+Vite;Building+GasApp+%F0%9F%9A%9A+%26+Albion+Online+tools+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-  <img align="right" alt="Coding" width="260" height="300" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
-
-  <li>
-    <ul>🇨🇱 I'm from Chile  </ul>
-  </li>
-  
-  <li>
-    <ul>🧑‍🎓 I'm in my last year as Computer Engineering student</ul>
-  </li>
-  
-  <li>
-    <ul>📚 I’m currently learning Devops</ul>
-  </li>
-
-  <li>
-    <ul>📱 I would like to learn Swift & Flutter</ul>
-  </li>
-
-  <li>
-    <ul>🌿 I love constantly learning and exploring new hobbies</ul>
-  </li> 
-
-  <li>
-    <ul>👾 I also love pixel art (random detail)</ul>
-  </li> 
 </div>
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ignacio-cisternas-orellana"/></a>
-<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ignacio-cisternas-orellana"/></a>
-</p>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Sobre mí
+
+- 🇨🇱 Desarrollador de software en Chile
+- 🎓 Ingeniería Civil en Computación
+- 📱 Actualmente construyendo **GasApp**, una app Flutter de delivery de gas para el mercado chileno
+- ⚔️ Desarrollando un ecosistema de herramientas para **Albion Online** (API de mercado + calculadora de crafting)
+- 🛠️ Stack diario: Flutter, Go, React/TypeScript, PostgreSQL
+- 🌱 Explorando arquitectura hexagonal, DevOps y sistemas escalables
+- 🎮 Cuando no programo, sigo jugando y analizando la economía de Albion Online
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/OleksiiKM/OleksiiKM/output/snake.svg" width="100%" alt="snake animation"/>
+
+</td>
+</tr>
+</table>
+
 <br>
 
-<div style="display: inline_block">
+## 🧰 Stack técnico
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="left">
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,express" />
-  </a>
-</p>
+**Mobile & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nextjs,vite,tailwind" />
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,emotion" />
-  </a>
-</p>
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=go,nodejs,py,express" />
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
+**Data & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,aws,gcp" />
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" />
-  </a>
-</p>
+**Herramientas**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,pnpm" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">     
 </div>
 
-## Github Overview  
+<br>
 
-<section>
-  <p align="center">
-    <a href="https://github.com/nachodev-ui">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nachodev-ui&theme=transparent" />
-    </a>
-    <a href="https://github.com/nachodev-ui">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nachodev-ui&hide_border=true&card_width=338&theme=transparent" />
-    </a>
-    <a href="https://github.com/nachodev-ui">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachodev-ui&theme=transparent" />
-    </a>
-  </p>
-</section>
+## 📊 GitHub Overview
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=nachodev-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachodev-ui&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=nachodev-ui&theme=tokyonight&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nachodev-ui&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+## 🤝 Conecta conmigo
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ignacio-cisternas-orellana/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+<a href="mailto:ig.cisternas.dev@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
