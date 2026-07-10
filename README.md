@@ -17,7 +17,8 @@
 ### 👋 Sobre mí
 
 - 🇨🇱 Desarrollador de software en Chile
-- 🎓 Ingeniería Civil en Computación
+- 🎓 Ingeniero Civil en Computación
+- 📱 Actualmente construyendo **GasApp**, una app Flutter de delivery de gas para el mercado chileno
 - ⚔️ Desarrollando un ecosistema de herramientas para **Albion Online** (API de mercado + calculadora de crafting)
 - 🛠️ Stack diario: Flutter, Go, React/TypeScript, PostgreSQL
 - 🌱 Explorando arquitectura hexagonal, DevOps y sistemas escalables
@@ -26,7 +27,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/OleksiiKM/OleksiiKM/output/snake.svg" width="100%" alt="snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nachodev-ui&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" alt="github trophies"/>
 
 </td>
 </tr>
